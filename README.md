@@ -12,6 +12,7 @@ The work includes problem understanding, data exploration, ML modeling, evaluati
 ---
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NatthawanSrisan/Diabetes-prediction-ml/blob/main/diabetes_predictionSrisanNatthawan.ipynb)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-diabetes-demo.streamlit.app)
 ## 🧩 Part A: Problem Understanding
 
 **Problem Statement:**  
