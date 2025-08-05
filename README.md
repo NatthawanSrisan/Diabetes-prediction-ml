@@ -10,6 +10,7 @@ To develop a machine learning solution that predicts whether a person has diabet
 The work includes problem understanding, data exploration, ML modeling, evaluation, and a basic Streamlit UI for interaction.
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NatthawanSrisan/Diabetes-prediction-ml/blob/main/diabetes_predictionSrisanNatthawan.ipynb)
 
 ## 🧩 Part A: Problem Understanding
 
